@@ -16,7 +16,7 @@
 ### 微信域名检测接口请求参数说明
 | 名称  | 必填 | 类型 | 说明 |
 | ------------- | ------------- | ------------- | ------------- |
-| api_token  | 是  | string  | 用户的API Token，在用户中心可以查询到，用于API调用  |
+| api_token  | 是  | string  | 用户的API Token，在[用户中心](https://wx.horocn.com/user/center.html)可以查询到，用于API调用  |
 | req_url  | 是  | string  | 需要检测的url或域名，例：https://www.qq.com/ 或 www.qq.com  |
 
 
