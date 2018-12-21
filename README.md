@@ -12,7 +12,15 @@
 微信域名检测接口：[https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com
 ](https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com)
 
-微信域名检测接口返回结果
+
+### 微信域名检测接口请求参数说明
+| 名称  | 必填 | 类型 | 说明 |
+| ------------- | ------------- | ------------- | ------------- |
+| api_token  | 是  | string  | 用户的API Token，在用户中心可以查询到，用于API调用  |
+| req_url  | 是  | string  | 需要检测的url或域名，例：https://www.qq.com/ 或 www.qq.com  |
+
+
+### 微信域名检测接口返回结果
 ```json
 // 服务端正常处理请求，且域名正常
 {
