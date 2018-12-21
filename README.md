@@ -8,6 +8,8 @@
 * 网页包含诱导分享
 * 诱导关注内容，被多人投诉，为维护绿色上网环境，已停止访问
 
+---
+
 ## 使用说明
 微信域名检测接口：[https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com
 ](https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com)
@@ -57,6 +59,8 @@
 
 > 请替换上面的 API Token，该值在用户中心可以查询到
 
+---
+
 ## 更新日志（CHANGELOG）
 ### 2018-12-08 微信域名检测系统更新说明
 * cookie 采集服务与微信域名检测服务分离
@@ -69,6 +73,8 @@
 ### 2018-12-02 微信域名检测系统更新说明
 * 优化微信域名检测服务API，降低接口的响应时间
 * 分布式部署以及负载均衡
+
+---
 
 ## 功能介绍
 ### 承载海量并发
