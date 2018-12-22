@@ -1,4 +1,4 @@
-# 微信域名检测系统
+# [微信域名检测系统](https://wx.horocn.com/product-domain-check.html)
 
 ## 项目介绍
 ![微信域名检测-已停止访问该网页.png](https://i.loli.net/2018/12/21/5c1cdf42aa290.png)
@@ -11,7 +11,7 @@
 ---
 
 ## 使用说明
-微信域名检测接口：[https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com
+[微信域名检测接口](https://wx.horocn.com/product-domain-check.html)：[https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com
 ](https://wx.horocn.com/api/v1/wxUrlCheck?api_token=your_api_token&req_url=www.qq.com)
 
 
